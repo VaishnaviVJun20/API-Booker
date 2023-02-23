@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="8" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25383" started-at="2023-02-23T14:16:34 IST" finished-at="2023-02-23T14:17:00 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25383" started-at="2023-02-23T14:16:34 IST" finished-at="2023-02-23T14:17:00 IST">
+      <class name="testscripts.CreateBookingTest">
+        <test-method status="PASS" signature="generateToken()[pri:0, instance:testscripts.CreateBookingTest@462d5aee]" name="generateToken" is-config="true" duration-ms="3810" started-at="2023-02-23T14:16:34 IST" finished-at="2023-02-23T14:16:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateToken -->
+        <test-method status="PASS" signature="createBookingTestWithPOJO()[pri:0, instance:testscripts.CreateBookingTest@462d5aee]" name="createBookingTestWithPOJO" duration-ms="1966" started-at="2023-02-23T14:16:38 IST" finished-at="2023-02-23T14:16:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBookingTestWithPOJO -->
+        <test-method status="PASS" signature="generateToken()[pri:0, instance:testscripts.CreateBookingTest@462d5aee]" name="generateToken" is-config="true" duration-ms="1438" started-at="2023-02-23T14:16:40 IST" finished-at="2023-02-23T14:16:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateToken -->
+        <test-method status="PASS" signature="getAllBookindTest()[pri:1, instance:testscripts.CreateBookingTest@462d5aee]" name="getAllBookindTest" duration-ms="1831" started-at="2023-02-23T14:16:42 IST" finished-at="2023-02-23T14:16:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllBookindTest -->
+        <test-method status="PASS" signature="generateToken()[pri:0, instance:testscripts.CreateBookingTest@462d5aee]" name="generateToken" is-config="true" duration-ms="1321" started-at="2023-02-23T14:16:44 IST" finished-at="2023-02-23T14:16:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateToken -->
+        <test-method status="PASS" signature="getBookindIdTest()[pri:2, instance:testscripts.CreateBookingTest@462d5aee]" name="getBookindIdTest" duration-ms="1517" started-at="2023-02-23T14:16:45 IST" finished-at="2023-02-23T14:16:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookindIdTest -->
+        <test-method status="PASS" signature="generateToken()[pri:0, instance:testscripts.CreateBookingTest@462d5aee]" name="generateToken" is-config="true" duration-ms="1423" started-at="2023-02-23T14:16:46 IST" finished-at="2023-02-23T14:16:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateToken -->
+        <test-method status="PASS" signature="getBookindIdDeserealisedTest()[pri:3, instance:testscripts.CreateBookingTest@462d5aee]" name="getBookindIdDeserealisedTest" duration-ms="1431" started-at="2023-02-23T14:16:48 IST" finished-at="2023-02-23T14:16:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookindIdDeserealisedTest -->
+        <test-method status="PASS" signature="generateToken()[pri:0, instance:testscripts.CreateBookingTest@462d5aee]" name="generateToken" is-config="true" duration-ms="1487" started-at="2023-02-23T14:16:49 IST" finished-at="2023-02-23T14:16:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateToken -->
+        <test-method status="PASS" signature="updateBookindIdDeserealisedTest()[pri:4, instance:testscripts.CreateBookingTest@462d5aee]" name="updateBookindIdDeserealisedTest" duration-ms="1414" started-at="2023-02-23T14:16:51 IST" finished-at="2023-02-23T14:16:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBookindIdDeserealisedTest -->
+        <test-method status="PASS" signature="generateToken()[pri:0, instance:testscripts.CreateBookingTest@462d5aee]" name="generateToken" is-config="true" duration-ms="1560" started-at="2023-02-23T14:16:52 IST" finished-at="2023-02-23T14:16:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateToken -->
+        <test-method status="PASS" signature="updatePartialBookingIdTest()[pri:5, instance:testscripts.CreateBookingTest@462d5aee]" name="updatePartialBookingIdTest" duration-ms="1379" started-at="2023-02-23T14:16:54 IST" finished-at="2023-02-23T14:16:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePartialBookingIdTest -->
+        <test-method status="PASS" signature="generateToken()[pri:0, instance:testscripts.CreateBookingTest@462d5aee]" name="generateToken" is-config="true" duration-ms="1326" started-at="2023-02-23T14:16:55 IST" finished-at="2023-02-23T14:16:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateToken -->
+        <test-method status="PASS" signature="DeleteBookingTest()[pri:6, instance:testscripts.CreateBookingTest@462d5aee]" name="DeleteBookingTest" duration-ms="3432" started-at="2023-02-23T14:16:56 IST" finished-at="2023-02-23T14:17:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteBookingTest -->
+      </class> <!-- testscripts.CreateBookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
