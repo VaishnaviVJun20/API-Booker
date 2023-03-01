@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testscripts.CreateBookingTest">
+      <class name="testscripts.FMCReports">
         <methods>
-          <include name="generateToken"/>
-          <include name="DeleteBookingTest"/>
+          <include name="login"/>
+          <include name="verifyGetReportTest"/>
         </methods>
-      </class> <!-- testscripts.CreateBookingTest -->
+      </class> <!-- testscripts.FMCReports -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
